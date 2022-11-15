@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman to Integer", "Roman to Integer\Roman to Integer.csproj", "{EEF287EA-765F-42F2-A7F1-DEEAE07E2E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF287EA-765F-42F2-A7F1-DEEAE07E2E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF287EA-765F-42F2-A7F1-DEEAE07E2E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF287EA-765F-42F2-A7F1-DEEAE07E2E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF287EA-765F-42F2-A7F1-DEEAE07E2E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F97351-E0FC-4A5B-913E-078DCADCD52A}
+	EndGlobalSection
+EndGlobal
